@@ -1,16 +1,24 @@
-## Hi there 👋
+# Desarrollador web
 
-<!--
-**lueyo/lueyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Proyectos
 
-Here are some ideas to get you started:
+### [DS Menu](https://lueyo.github.io/DS-Menu/)
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![DS-Menu](DSMenu.png)
+
+<br>
+
+### [Bard Trivial](https://github.com/lueyo/bardTrivial)
+
+<br>
+
+![Bard Trivial](bard.jpg)
+
+<br>
+
+### [Lueyo Notepad](https://github.com/lueyo/lueyoNotepad)
+
+<br>
+
+![lueyoNotepad](notepad.png)
