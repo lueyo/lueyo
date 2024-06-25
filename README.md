@@ -9,11 +9,10 @@
 
 <br>
 
-### [Bard Trivial](https://github.com/lueyo/bardTrivial)
-
+### [Link Shorter](https://github.com/lueyo/link-shorter)
 <br>
 
-![Bard Trivial](bard.jpg)
+![Link Shorter](shorter.png)
 
 <br>
 
@@ -22,3 +21,14 @@
 <br>
 
 ![lueyoNotepad](notepad.png)
+
+<br>
+
+
+### [Bard Trivial](https://github.com/lueyo/bardTrivial)
+
+<br>
+
+![Bard Trivial](bard.jpg)
+
+<br>
