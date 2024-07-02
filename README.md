@@ -1,5 +1,5 @@
 # Desarrollador web
-```
+```json
 user = {
     "name": "Toni",
     "username": "lueyo",
