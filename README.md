@@ -1,5 +1,5 @@
 # Desarrollador web
-```json
+```python
 user = {
     "name": "Toni",
     "username": "lueyo",
