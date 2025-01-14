@@ -102,4 +102,4 @@ const user = {
 #### Un chat simple en tiempo real hecho con websockets
 ##### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Fastapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-<a href="https://github.com/lueyo/lueyoChat"><img src="chat.png" alt="Lueyo Chat" height="270" /></a>
+<a href="https://github.com/lueyo/lueyoChat"><img src="lueyochat.png" alt="Lueyo Chat" height="270" /></a>
