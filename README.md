@@ -75,7 +75,7 @@ const user = {
 
 ### Link Shorter
 
-#### Un acortador de links desplegado en [Mi Web](https://lueyo.es) 
+#### Un acortador de links desplegado en [Mi Web](https://link-shorter-bymq.onrender.com) 
 ##### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Fastapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Mongo](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <a href="https://github.com/lueyo/link-shorter"><img src="shorter.png" alt="Link Shorter" height="270" /></a>
@@ -97,3 +97,9 @@ const user = {
 ##### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <a href="https://github.com/lueyo/bardTrivial"><img src="bard.jpg" alt="Bard Trivial" height="270" /></a>
+
+### Lueyo Chat
+#### Un chat simple en tiempo real hecho con websockets
+##### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Fastapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+<a href="https://github.com/lueyo/lueyoChat"><img src="chat.png" alt="Lueyo Chat" height="270" /></a>
