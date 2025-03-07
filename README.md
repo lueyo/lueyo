@@ -99,7 +99,7 @@ const user = {
 
 <a href="https://github.com/lueyo/bardTrivial"><img src="bard.jpg" alt="Bard Trivial" height="270" /></a>
 
-### Medidor de inteligenica y maldad
+### Medidor
 #### Una app con 2 barras para poner la inteligencia y la maldad de una persona subiendo una foto para luego sacar captura y compartirla
 ##### ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
 
