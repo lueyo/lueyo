@@ -44,7 +44,7 @@ const user = {
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
@@ -98,6 +98,12 @@ const user = {
 ##### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <a href="https://github.com/lueyo/bardTrivial"><img src="bard.jpg" alt="Bard Trivial" height="270" /></a>
+
+### Medidor de inteligenica y maldad
+#### Una app con 2 barras para poner la inteligencia y la maldad de una persona subiendo una foto
+##### ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
+
+<a href="https://lueyo.github.io/medidor/"><img src="medidor.png" alt="Lueyo Chat" height="270" /></a>
 
 ### Lueyo Chat
 #### Un chat simple en tiempo real hecho con websockets
