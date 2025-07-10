@@ -74,6 +74,12 @@ const user = {
 
 <a href="https://github.com/lueyo31/Fedesearch"><img src="fedesearch.png" alt="FedeSearch" height="270" /></a>
 
+### Discount Code
+#### un gestor de códigos de descuento a nivel local
+##### ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+<a href="https://codes.lueyo.es/"><img src="codes.png" alt="Codes" height="270" /></a>
+
 ### Save Bot
 #### Un bot de discord para hacer copias de seguridad de mensajes
 ##### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
@@ -115,7 +121,7 @@ const user = {
 #### Una app con 2 barras para poner la inteligencia y la maldad de una persona subiendo una foto para luego sacar captura y compartirla
 ##### ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
 
-<a href="https://lueyo.github.io/medidor/"><img src="medidor.png" alt="Lueyo Chat" height="270" /></a>
+<a href="https://lueyo.github.io/medidor/"><img src="medidor.png" alt="Medidor" height="270" /></a>
 
 ### Lueyo Chat
 #### Un chat simple en tiempo real hecho con websockets
