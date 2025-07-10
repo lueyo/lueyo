@@ -75,8 +75,8 @@ const user = {
 <a href="https://github.com/lueyo31/Fedesearch"><img src="fedesearch.png" alt="FedeSearch" height="270" /></a>
 
 ### Discount Code
-#### un gestor de códigos de descuento a nivel local
-##### ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+#### Un gestor de códigos de descuento a nivel local
+##### ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 <a href="https://codes.lueyo.es/"><img src="codes.png" alt="Codes" height="270" /></a>
 
