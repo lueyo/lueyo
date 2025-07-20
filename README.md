@@ -68,6 +68,12 @@ const user = {
 
 <a href="https://ds.lueyo.es/"><img src="DSMenu.png" alt="DS Menu" height="270" /></a>
 
+### Lueyo Apps
+#### Un menú con mis aplicaciones copiando el menú de la Wii
+##### ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+
+<a href="https://apps.lueyo.es/"><img src="wiimenu.png" alt="Lueyo Apps" height="270" /></a>
+
 ### FedeSearch
 #### Un metabuscador con varios motores de búsqueda pensado para instalarse en local
 ##### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Fastapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-3178F6?style=for-the-badge&logo=docker&logoColor=white)
