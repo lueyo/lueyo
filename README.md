@@ -69,7 +69,7 @@ const user = {
 <a href="https://ds.lueyo.es/"><img src="DSMenu.png" alt="DS Menu" height="270" /></a>
 
 ### Lueyo Apps
-#### Un menú con mis aplicaciones copiando el menú de la Wii
+#### Menú con mis apps terminadas y [beta](https://short.lueyo.es) copiando el menú de la Wii
 ##### ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 <a href="https://apps.lueyo.es/"><img src="wiimenu.png" alt="Lueyo Apps" height="270" /></a>
