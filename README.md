@@ -74,6 +74,12 @@ const user = {
 
 <a href="https://apps.lueyo.es/"><img src="wiimenu.png" alt="Lueyo Apps" height="270" /></a>
 
+### Lueyo Chat
+#### Un chat tiempo real hecho con websockets
+##### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Fastapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+<a href="https://chat.lueyo.es/"><img src="lueyochat.png" alt="Lueyo Chat" height="270" /></a>
+
 ### FedeSearch
 #### Un metabuscador con varios motores de búsqueda pensado para instalarse en local
 ##### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Fastapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-3178F6?style=for-the-badge&logo=docker&logoColor=white)
@@ -135,8 +141,3 @@ const user = {
 
 <a href="https://lueyo.github.io/medidor/"><img src="medidor.png" alt="Medidor" height="270" /></a>
 
-### Lueyo Chat
-#### Un chat simple en tiempo real hecho con websockets
-##### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Fastapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-<a href="https://github.com/lueyo/lueyoChat"><img src="lueyochat.png" alt="Lueyo Chat" height="270" /></a>
