@@ -109,7 +109,13 @@ const user = {
 #### Una forma de compartir videos de X, Instagram y Tiktok si la otra persona no tiene
 ##### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Fastapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
-<a href="https://tk.lueyo.es/"><img src="shared.png" alt="Video Sharer" height="270" /></a>
+<a href="https://ttk.lueyo.es/"><img src="shared.png" alt="Video Sharer" height="270" /></a>
+
+### Piedra, papel, tijera
+#### Web para jugar piedra papel o tijera con creador de salas y cliente de [LueyoChat](https://chat.lueyo.es)
+##### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Fastapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+<a href="https://rps.lueyo.es/"><img src="piedrapapeltijera.png" alt="Piedra papel y tijera" height="270" /></a>
 
 ### Fast Thumbnails 
 #### Un script que te crea miniaturas, pensado para los extractos de directos poco currados
