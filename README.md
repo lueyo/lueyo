@@ -111,6 +111,12 @@ const user = {
 
 <a href="https://ttk.lueyo.es/"><img src="shared.png" alt="Video Sharer" height="270" /></a>
 
+### Lueyo Paste
+#### Una forma de compartir textos compatible con curl
+##### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Fastapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Mongo](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+<a href="https://paste.lueyo.es/"><img src="lueyopaste.png" alt="Lueyo Paste" height="270" /></a>
+
 ### Piedra, papel, tijera
 #### Web para jugar piedra papel o tijera con creador de salas y cliente de [LueyoChat](https://chat.lueyo.es)
 ##### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Fastapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
