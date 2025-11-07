@@ -117,6 +117,12 @@ const user = {
 
 <a href="https://paste.lueyo.es/"><img src="lueyopaste.png" alt="Lueyo Paste" height="270" /></a>
 
+### RandomYT
+#### Plataforma para ver y publicar videos desconocidos de pocas visitas que salen en la sección de recomendados de youtube
+##### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Fastapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Mongo](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<a href="https://randomyt.lueyo.es/"><img src="randomyt.png" alt="RandomYT" height="270" /></a>
+
 ### Piedra, papel, tijera
 #### Web para jugar piedra papel o tijera con creador de salas y cliente de [LueyoChat](https://chat.lueyo.es)
 ##### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Fastapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
