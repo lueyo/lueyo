@@ -129,6 +129,12 @@ const user = {
 
 <a href="https://rps.lueyo.es/"><img src="piedrapapeltijera.png" alt="Piedra papel y tijera" height="270" /></a>
 
+### Clash Impostor
+#### Juego del impostor con cartas de clash royale 
+##### ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+<a href="https://clash.lueyo.es/"><img src="clashimpostor.png" alt="Clash Impostor" height="270" /></a>
+
 ### Fast Thumbnails 
 #### Un script que te crea miniaturas, pensado para los extractos de directos poco currados
 ##### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
